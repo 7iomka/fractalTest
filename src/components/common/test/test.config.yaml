@@ -1,0 +1,6 @@
+context:
+  config:
+    component: button--default
+    config:
+      label: Tested Disabled button
+      disabled: true
